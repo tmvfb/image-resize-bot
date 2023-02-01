@@ -19,6 +19,6 @@ To do this go to `Tools -> Secrets`:\
 Then add 'token' as a keyname and enter your API token as a value. Click `Add new secret`.\
 \
 ![image](https://user-images.githubusercontent.com/116455436/216043742-729587c2-5298-46e1-a7d2-13d3cf77d667.png)
-3. Click `Run`. You can now start interaction with bot via Telegram.
+3. Click `Run` at main.py. You can now start interaction with bot via Telegram.
 
 
