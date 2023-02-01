@@ -1,6 +1,6 @@
-## Telegram bot for image editing
+## Telegram bot for image editing built with PTB v.13.14.  
 
-Built with PTB v.13.14.  
+
 Receives one .jpeg image from user and provides resized image as an output.  
 More functions will be added later.
 
