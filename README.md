@@ -8,8 +8,8 @@ More functions will be added later.
 ### Usage
 The code is intended to be run from [replit](https://replit.com/~):
 1. Fork code to replit via `Create -> Import from GitHub`. Choose 'Blank Repl' in `Language` section:\
-![image](https://user-images.githubusercontent.com/116455436/216061237-cdacad3f-66c6-4989-9086-388718065067.png)
-\
+![image](https://user-images.githubusercontent.com/116455436/216061237-cdacad3f-66c6-4989-9086-388718065067.png)  
+  
 2. Add your telegram bot [HTTP API token](https://www.siteguarding.com/en/how-to-get-telegram-bot-api-token) as env variable.  
 To do this go to `Tools -> Secrets`:\
 \
